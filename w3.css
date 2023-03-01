@@ -1759,3 +1759,25 @@ a {
 .logo {
     background: transparent !important;
 }
+
+.car {
+    display: block;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.car-image {
+    width: inherit;
+    height: 75%; 
+
+}
+
+.nav-bar{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
