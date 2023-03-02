@@ -1781,3 +1781,16 @@ a {
     top: 0px;
 }
 
+.fot{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    
+    
+}
+.test-body{
+    position: relative;
+    padding-bottom: 200px;
+    min-height: 100vh;
+}
+
